@@ -1,0 +1,2 @@
+<VOCAL>->a<Consonante>|e<Consonante>|i<Consonante>|o<Consonante>|u<Consonante>
+<Consonante>->b<VOCAL>|c<VOCAL>|d<VOCAL>|f<VOCAL>

@@ -1,0 +1,13 @@
+gram1	0(0)*1((0(0)*1|1))*0|1(0)*1((0(0)*1|1))*0
+gram2	(a)*ab(a)*a
+gram3	a(a|b)(((a|b)a|(a|b)b))*(a|b)a|aa
+gram4	a(ca)*(b|ca)(d(ca)*(b|ca))*c|a(d(ca)*(b|ca))*c
+gram5	(a|c)((ba|bc))*ba|(a|c)((ba|bc))*bc|a|c
+gram7	ac(aac)*ab(dc(aac)*ab)*dc(aac)*b|ac(aac)*b|b(dc(aac)*ab)*dc(aac)*b
+gram8	\<(\()*\)((\|(\()*\)|\n))*\}|\>(\{)*\~((\|(\()*\)|\n))*\}
+gram9	a(aa)*c|a(aa)*d
+gram10	ERROR
+gram12	bb(ab)*a~|b~|~
+gram11	ERROR
+gram13	1(0)*1|1(0)*1|0|~
+gram14	(a|0)((a|0))*c

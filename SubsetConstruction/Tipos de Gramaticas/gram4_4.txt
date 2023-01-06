@@ -1,0 +1,6 @@
+<cerradura>->w<positiva>
+<cerradura>->w<kleene>
+<positiva>->x<kleene>
+<positiva>->y<cerradura>
+<kleene>->y
+<kleene>->z<positiva>
